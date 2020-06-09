@@ -19,6 +19,7 @@ public class Week2Tuesday {
         System.out.println("Learn gituh");
         System.out.println("New line");
       System.out.println("New line push operation");
+      System.out.println("New line learninf Fetch op + merge");
       
     }
     
