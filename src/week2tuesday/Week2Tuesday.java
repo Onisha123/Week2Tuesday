@@ -17,6 +17,7 @@ public class Week2Tuesday {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Learn gituh");
+        System.out.println("New line");
     }
     
 }
